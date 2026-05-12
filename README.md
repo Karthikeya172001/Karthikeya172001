@@ -44,7 +44,8 @@ Queue-based email automation system using Node.js, Nodemailer, and CSV processin
 # 📫 Connect With Me
 
 - GitHub: https://github.com/Karthikeya172001
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/karthikeya-gorityala
+
 
 <!--
 **Karthikeya172001/Karthikeya172001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,3 +61,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
