@@ -1,8 +1,10 @@
 # Hi, I'm Karthikeya 👋
 
-Backend Engineer focused on APIs, authentication systems, and full-stack web applications.
+Backend Engineer focused on APIs, authentication systems, backend infrastructure, and full-stack web applications.
 
-## 🚀 Tech Stack
+---
+
+# 🚀 Tech Stack
 
 - Python
 - FastAPI
@@ -21,14 +23,28 @@ Backend Engineer focused on APIs, authentication systems, and full-stack web app
 ## 📚 Online Course Platform
 Full-stack platform with JWT authentication, role-based access, and course management.
 
+🔗 https://github.com/Karthikeya172001
+
+---
+
 ## 🔐 JWT Authentication API
 FastAPI + MongoDB authentication backend with secure JWT token handling.
+
+🔗 https://github.com/Karthikeya172001
+
+---
 
 ## 🤖 Code Buddy AI
 AI-powered coding assistant for code explanations, optimizations, and quiz generation.
 
+🔗 https://github.com/Karthikeya172001/code-buddy
+
+---
+
 ## 📧 Email Sending Micro-System
 Queue-based email automation system using Node.js, Nodemailer, and CSV processing.
+
+🔗 Add repository link here
 
 ---
 
@@ -45,20 +61,3 @@ Queue-based email automation system using Node.js, Nodemailer, and CSV processin
 
 - GitHub: https://github.com/Karthikeya172001
 - LinkedIn: https://www.linkedin.com/in/karthikeya-gorityala
-
-
-<!--
-**Karthikeya172001/Karthikeya172001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
