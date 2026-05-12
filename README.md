@@ -23,14 +23,14 @@ Backend Engineer focused on APIs, authentication systems, backend infrastructure
 ## 📚 Online Course Platform
 Full-stack platform with JWT authentication, role-based access, and course management.
 
-🔗 https://github.com/Karthikeya172001
+🔗 https://github.com/Karthikeya172001/online-course-platform-project
 
 ---
 
 ## 🔐 JWT Authentication API
 FastAPI + MongoDB authentication backend with secure JWT token handling.
 
-🔗 https://github.com/Karthikeya172001
+🔗 https://github.com/Karthikeya172001/jwt-auth-api
 
 ---
 
