@@ -44,7 +44,7 @@ AI-powered coding assistant for code explanations, optimizations, and quiz gener
 ## 📧 Email Sending Micro-System
 Queue-based email automation system using Node.js, Nodemailer, and CSV processing.
 
-🔗 Add repository link here
+🔗 https://github.com/Karthikeya172001/email-system
 
 ---
 
